@@ -21,3 +21,5 @@ src/web/Cyinput/*
 */aofs.db
 release/
 src/system/neuralnet/yolov3.weights
+
+src/files
